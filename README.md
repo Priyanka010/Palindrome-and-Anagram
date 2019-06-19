@@ -1,5 +1,5 @@
 # Palindrome-and-Anagram
-Searching a file for palindromes and anagrams.
+Searching a file for palindromes and anagrams in Python.
 
 
 Palindromes – words that read the same either way e.g. radar, civic, level, anna
